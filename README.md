@@ -19,7 +19,7 @@ class Nzox:
     alias       = "Nzox973"
     location    = "Guyane 🇬🇷  (French Guiana)"
     languages   = ["FR 🇫🇷", "EN 🇬🇧", "ES 🇪🇸"]
-    education   = "Terminale (Math · NSI · SES) → BUT Informatique"
+    education   = "Terminale (Math · NSI · SES) → Management et Numerique"
     focus       = ["Full-Stack Dev", "Cybersecurity", "SaaS Building"]
     company     = "Nzox Media — auto-entrepreneur 🏢"
     building    = "NEXUS — AI-powered SaaS 🚀"
