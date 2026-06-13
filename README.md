@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Hey+%F0%9F%91%8B+I%27m+Enzo+%E2%80%94+aka+Nzox;Student+%7C+Developer+%7C+Entrepreneur;Python+%C2%B7+FastAPI+%C2%B7+Next.js+%C2%B7+Flutter;Cybersecurity+Enthusiast+%F0%9F%94%90;Building+NEXUS+SaaS+%F0%9F%9A%80;Guyane+%F0%9F%87%AB%F0%9F%87%B7+%C2%B7+FR+%C2%B7+EN+%C2%B7+ES" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Hey+%F0%9F%91%8B+I%27m+Enzo+%E2%80%94+aka+Nzox;Student+%7C+Developer+%7C+Builder;Python+%C2%B7+FastAPI+%C2%B7+Next.js+%C2%B7+Flutter;Cybersecurity+Enthusiast+%F0%9F%94%90;Building+NEXUS+SaaS+%F0%9F%9A%80;Guyane+%F0%9F%87%AC%F0%9F%87%AB+%C2%B7+FR+%C2%B7+EN+%C2%B7+ES" alt="Typing SVG" />
 
 <br/>
 
@@ -15,15 +15,16 @@
 
 ```python
 class Nzox:
-    name        = "Enzo"
+    name        = "Enzo ATTICOT"
     alias       = "Nzox973"
-    location    = "Guyane 🇬🇷  (French Guiana)"
-    languages   = ["FR 🇫🇷", "EN 🇬🇧", "ES 🇪🇸"]
-    education   = "Terminale (Math · NSI · SES) → Management et Numerique"
+    location    = "Guyane 🇬🇫  (French Guiana)"
+    languages   = ["FR 🇫🇷", "EN 🇬🇧", "ES 🇪🇸", "ZH 🇨🇳 (bases)"]
+    education   = "Bac Général (Math · NSI) → Bachelor Management & Numérique"
+    school      = "Pôle Supérieur de Guyane (2026 →)"
     focus       = ["Full-Stack Dev", "Cybersecurity", "SaaS Building"]
-    company     = "Nzox Media — auto-entrepreneur 🏢"
-    building    = "NEXUS — AI-powered SaaS 🚀"
-    content     = ["NzoxPlay 🎮", "NzoxYt 📹"]
+    building    = "NEXUS — AI-powered product workflow SaaS 🚀"
+    military    = "Réserviste militaire — Armée française 🎖️"
+    hobbies     = ["Karaté 🥋 (ceinture noire)", "Sports collectifs ⚽", "Gaming 🎮"]
     fun_fact    = "Coding from the Amazon rainforest 🌴"
 ```
 
@@ -71,25 +72,24 @@ class Nzox:
 
 ---
 
-## 🏢 Nzox Media
+## 📊 GitHub Stats
 
-> Micro-entreprise active · Création de contenu · Tech & Digital
-
-| Chaîne | Contenu |
-|---|---|
-| 🎮 **NzoxPlay** | Gaming content |
-| 📹 **NzoxYt** | Tech & dev content |
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nzox973&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nzox973&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+</div>
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=Nzox973&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+</div>
 
 ---
-
-## 📊 GitHub Stats <div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nzox973&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nzox973&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" /> </div> <div align="center"> <img src="https://streak-stats.demolab.com?user=Nzox973&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" /> </div> ---
 
 ## 🎯 Current Focus
 
 - 🔨 **Building** NEXUS SaaS — Flutter · FastAPI · Supabase
-- 📚 **Studying** — Terminale NSI · Math · SES → BUT Informatique
+- 📚 **Studying** — Bachelor Management & Numérique · Pôle Supérieur de Guyane
 - 🔐 **Learning** — Cybersecurity, CTF, OWASP Top 10
-- 🎬 **Creating** — Tech & gaming content for NzoxPlay / NzoxYt
+- 🥋 **Sports** — Karaté (ceinture noire) · Sports collectifs
 
 ---
 
@@ -97,6 +97,7 @@ class Nzox:
 
 <div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Enzo_ATTICOT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzo-atticot-4b1080347/)
 [![GitHub](https://img.shields.io/badge/GitHub-Nzox973-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nzox973)
 [![Email](https://img.shields.io/badge/Email-enzoatticot5%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enzoatticot5@gmail.com)
 
