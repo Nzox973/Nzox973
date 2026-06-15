@@ -75,10 +75,27 @@ class Nzox:
 
 ---
 
+## 🏆 Trophées
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Nzox973&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 📈 Activité
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nzox973&theme=tokyo-night&hide_border=true&bg_color=0d1117" alt="Graphique d'activité" />
+</div>
+
+---
+
 ## 🎯 Current Focus
 
 - 📚 **Studying** — Bachelor Management & Numérique · Pôle Supérieur de Guyane (2026)
 - 🔐 **Building** — Projets backend Python + cybersécurité défensive
+- 🌐 **Portfolio** — [nzox973.github.io](https://nzox973.github.io/)
 - 🥋 **Sports** — Karaté (ceinture noire) · Sports collectifs
 
 ---
@@ -87,7 +104,8 @@ class Nzox:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Enzo_ATTICOT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzo-atticot-4b1080347/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-nzox973.github.io-6366F1?style=for-the-badge&logo=githubpages&logoColor=white)](https://nzox973.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Enzo_ATTICOT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzo-atticot/)
 [![GitHub](https://img.shields.io/badge/GitHub-Nzox973-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nzox973)
 [![Email](https://img.shields.io/badge/Email-enzoatticot5%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enzoatticot5@gmail.com)
 
