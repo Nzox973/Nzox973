@@ -63,22 +63,14 @@ class Nzox:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Stats
 
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nzox973&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nzox973&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nzox973&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6&hide=plpgsql,html" alt="Top Languages" />
 </div>
+
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=Nzox973&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
-</div>
-
----
-
-## 🏆 Trophées
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Nzox973&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -86,7 +78,7 @@ class Nzox:
 ## 📈 Activité
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nzox973&theme=tokyo-night&hide_border=true&bg_color=0d1117" alt="Graphique d'activité" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nzox973&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=6366f1&line=6366f1&point=ffffff" alt="Graphique d'activité" />
 </div>
 
 ---
