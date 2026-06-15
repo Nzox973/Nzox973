@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Hey+%F0%9F%91%8B+I%27m+Enzo+%E2%80%94+aka+Nzox;Student+%7C+Developer+%7C+Builder;Python+%C2%B7+FastAPI+%C2%B7+Next.js+%C2%B7+Flutter;Cybersecurity+Enthusiast+%F0%9F%94%90;Building+NEXUS+SaaS+%F0%9F%9A%80;Guyane+%F0%9F%87%AC%F0%9F%87%AB+%C2%B7+FR+%C2%B7+EN+%C2%B7+ES" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Hey+%F0%9F%91%8B+I%27m+Enzo+%E2%80%94+aka+Nzox;Student+%7C+Developer+%7C+Builder;Python+%C2%B7+FastAPI+%C2%B7+Cybers%C3%A9curit%C3%A9+d%C3%A9fensive;Guyane+%F0%9F%87%AC%F0%9F%87%AB+%C2%B7+FR+%C2%B7+EN+%C2%B7+ES" alt="Typing SVG" />
 
 <br/>
 
@@ -17,13 +17,12 @@
 class Nzox:
     name        = "Enzo ATTICOT"
     alias       = "Nzox973"
-    location    = "Guyane 🇬🇫  (French Guiana)"
-    languages   = ["FR 🇫🇷", "EN 🇬🇧", "ES 🇪🇸", "ZH 🇨🇳 (bases)"]
+    location    = "Guyane 🇬🇫 (French Guiana)"
+    languages   = ["FR 🇫🇷", "EN 🇬🇧", "ES 🇪🇸"]
     education   = "Bac Général (Math · NSI) → Bachelor Management & Numérique"
     school      = "Pôle Supérieur de Guyane (2026 →)"
-    focus       = ["Full-Stack Dev", "Cybersecurity", "SaaS Building"]
-    building    = "NEXUS — AI-powered product workflow SaaS 🚀"
-    military    = "Réserviste militaire — Armée française 🎖️"
+    focus       = ["Backend Dev", "Cybersécurité défensive", "Automatisation Python"]
+    discipline  = "Rigueur · autonomie · esprit d'équipe"
     hobbies     = ["Karaté 🥋 (ceinture noire)", "Sports collectifs ⚽", "Gaming 🎮"]
     fun_fact    = "Coding from the Amazon rainforest 🌴"
 ```
@@ -36,39 +35,31 @@ class Nzox:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 **Frameworks & Backend**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![discord.py](https://img.shields.io/badge/discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
-**Security & CTF**
+**Outils**
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## 🚀 NEXUS — Flagship Project
+## 📂 Projets publics
 
-<div align="center">
-
-> **AI-powered product launch & project workflow SaaS**
-
-| 🧩 Stack | 📦 Status | 🎯 Type |
-|:---:|:---:|:---:|
-| Flutter · FastAPI · Supabase · AI | 🔨 Active Development | SaaS · B2B |
-
-</div>
+| Projet | Stack | Description |
+|---|---|---|
+| [NzoxYt Discord Bot](https://github.com/Nzox973/nzox-discord-bot) | Python · discord.py · Groq | Bot Discord modulaire : XP, rôles réactifs, annonces YouTube/Twitch, IA |
+| [Nzox API](https://github.com/Nzox973/nzox-api) | FastAPI · JWT · SQLAlchemy | API REST avec authentification JWT et CRUD complet |
+| [Nzox Security Audit Tool](https://github.com/Nzox973/nzox-security-audit) | Python · psutil · Windows | Outil d'audit défensif Windows — rapport HTML |
 
 ---
 
@@ -86,9 +77,8 @@ class Nzox:
 
 ## 🎯 Current Focus
 
-- 🔨 **Building** NEXUS SaaS — Flutter · FastAPI · Supabase
-- 📚 **Studying** — Bachelor Management & Numérique · Pôle Supérieur de Guyane
-- 🔐 **Learning** — Cybersecurity, CTF, OWASP Top 10
+- 📚 **Studying** — Bachelor Management & Numérique · Pôle Supérieur de Guyane (2026)
+- 🔐 **Building** — Projets backend Python + cybersécurité défensive
 - 🥋 **Sports** — Karaté (ceinture noire) · Sports collectifs
 
 ---
