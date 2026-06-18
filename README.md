@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Hey+%F0%9F%91%8B+I%27m+Enzo+%E2%80%94+aka+Nzox;Student+%7C+Developer+%7C+Builder;Python+%C2%B7+FastAPI+%C2%B7+Cybers%C3%A9curit%C3%A9+d%C3%A9fensive;Guyane+%F0%9F%87%AC%F0%9F%87%AB+%C2%B7+FR+%C2%B7+EN+%C2%B7+ES" alt="Typing SVG" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:a855f7&height=200&section=header&text=Hey%20%F0%9F%91%8B%20I'm%20Nzox&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Developer%20%C2%B7%20Builder%20%C2%B7%20Cybersecurity&descAlignY=58&descAlign=50" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Bac+2026+%E2%9C%93+%E2%80%94+Bachelor+MN+incoming+%F0%9F%9A%80;Python+%C2%B7+FastAPI+%C2%B7+Cybers%C3%A9curit%C3%A9+d%C3%A9fensive;Building+from+Guyane+%F0%9F%87%AC%F0%9F%87%AB+%C2%B7+French+Guiana+%F0%9F%8C%B4;Construire.+S%C3%A9curiser.+Apprendre." alt="Typing SVG" />
 
 <br/>
 
@@ -18,12 +20,13 @@ class Nzox:
     name        = "Enzo ATTICOT"
     alias       = "Nzox973"
     location    = "Guyane 🇬🇫 (French Guiana)"
-    languages   = ["FR 🇫🇷", "EN 🇬🇧", "ES 🇪🇸"]
-    education   = "Bac Général (Math · NSI) → Bachelor Management & Numérique"
-    school      = "Pôle Supérieur de Guyane (2026 →)"
+    languages   = ["FR 🇫🇷", "EN 🇬🇧"]
+    status      = "Bac 2026 ✓ → Bachelor Management & Numérique (sept. 2026)"
+    school      = "Pôle Supérieur de Guyane — Externat Saint-Joseph"
     focus       = ["Backend Dev", "Cybersécurité défensive", "Automatisation Python"]
+    building    = "Real projects, not tutorials"
     discipline  = "Rigueur · autonomie · esprit d'équipe"
-    hobbies     = ["Karaté 🥋 (ceinture noire)", "Sports collectifs ⚽", "Gaming 🎮"]
+    hobbies     = ["Karaté 🥋 (ceinture noire)", "Gaming 🎮", "Sports collectifs ⚽"]
     fun_fact    = "Coding from the Amazon rainforest 🌴"
 ```
 
@@ -45,21 +48,27 @@ class Nzox:
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![discord.py](https://img.shields.io/badge/discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
+**APIs & IA**
+
+![Anthropic](https://img.shields.io/badge/Anthropic_API-C026D3?style=for-the-badge&logo=anthropic&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 **Outils**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
 ---
 
-## 📂 Projets publics
+## 🚀 Projets
 
 | Projet | Stack | Description |
 |---|---|---|
-| [NzoxYt Discord Bot](https://github.com/Nzox973/nzox-discord-bot) | Python · discord.py · Groq | Bot Discord modulaire : XP, rôles réactifs, annonces YouTube/Twitch, IA |
-| [Nzox API](https://github.com/Nzox973/nzox-api) | FastAPI · JWT · SQLAlchemy | API REST avec authentification JWT et CRUD complet |
-| [Nzox Security Audit Tool](https://github.com/Nzox973/nzox-security-audit) | Python · psutil · Windows | Outil d'audit défensif Windows — rapport HTML |
+| [🔐 Nzox Security Audit Tool](https://github.com/Nzox973/nzox-security-audit) | Python · psutil · Windows | Audit défensif Windows — génère un rapport HTML complet |
+| [🤖 NzoxYt Discord Bot](https://github.com/Nzox973/nzox-discord-bot) | Python · discord.py · Anthropic API | Bot modulaire : XP, rôles, annonces YouTube/Twitch, IA intégrée |
+| [⚡ Nzox API](https://github.com/Nzox973/nzox-api) | FastAPI · JWT · SQLAlchemy · Pydantic v2 | API REST complète avec authentification JWT et CRUD |
 
 ---
 
@@ -75,6 +84,14 @@ class Nzox:
 
 ---
 
+## 🏆 Trophées
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Nzox973&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" alt="GitHub Trophies" />
+</div>
+
+---
+
 ## 📈 Activité
 
 <div align="center">
@@ -85,8 +102,9 @@ class Nzox:
 
 ## 🎯 Current Focus
 
-- 📚 **Studying** — Bachelor Management & Numérique · Pôle Supérieur de Guyane (2026)
+- 🎓 **2026** — Bac ✓ · Bachelor Management & Numérique · Pôle Sup Guyane (sept.)
 - 🔐 **Building** — Projets backend Python + cybersécurité défensive
+- 📜 **Certifs visées** — Python PCEP · CompTIA Security+ · Cisco CCNA (2027)
 - 🌐 **Portfolio** — [nzox973.github.io](https://nzox973.github.io/)
 - 🥋 **Sports** — Karaté (ceinture noire) · Sports collectifs
 
@@ -105,8 +123,4 @@ class Nzox:
 
 ---
 
-<div align="center">
-
-*🌴 Building from Guyane, shipping to the world.*
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,100:6366f1&height=120&section=footer" />
