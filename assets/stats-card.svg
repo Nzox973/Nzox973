@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 360" role="img" aria-labelledby="title desc">
   <title id="title">Statistiques GitHub de Nzox973 au 25 juillet 2026</title>
-  <desc id="desc">53 contributions sur douze mois, 5 dépôts publics, 5 pull requests et 3 projets principaux.</desc>
+  <desc id="desc">Plus de 50 contributions sur douze mois, 5 dépôts publics, plus de 5 pull requests et 3 projets principaux.</desc>
   <defs>
     <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
       <path d="M28 0H0v28" fill="none" stroke="#52d4bd" stroke-opacity=".055"/>
@@ -16,7 +16,7 @@
 
   <g transform="translate(34 88)">
     <rect width="158" height="174" rx="8" fill="#10211f" stroke="#24574f"/>
-    <text x="18" y="78" fill="#edf1e8" font-family="Georgia, serif" font-size="64">53</text>
+    <text x="18" y="78" fill="#edf1e8" font-family="Georgia, serif" font-size="64">50+</text>
     <text x="18" y="113" fill="#52d4bd" font-family="Cascadia Code, monospace" font-size="13" font-weight="700">CONTRIBUTIONS</text>
     <text x="18" y="137" fill="#91a6a0" font-family="Aptos, sans-serif" font-size="13">sur 12 mois</text>
   </g>
@@ -30,7 +30,7 @@
 
   <g transform="translate(378 88)">
     <rect width="158" height="174" rx="8" fill="#10211f" stroke="#24574f"/>
-    <text x="18" y="78" fill="#edf1e8" font-family="Georgia, serif" font-size="64">5</text>
+    <text x="18" y="78" fill="#edf1e8" font-family="Georgia, serif" font-size="64">5+</text>
     <text x="18" y="113" fill="#f2a65a" font-family="Cascadia Code, monospace" font-size="13" font-weight="700">PULL REQUESTS</text>
     <text x="18" y="137" fill="#91a6a0" font-family="Aptos, sans-serif" font-size="13">publiées en 2026</text>
   </g>
@@ -44,5 +44,5 @@
 
   <rect x="34" y="286" width="674" height="42" rx="21" fill="#0d1b19" stroke="#24574f"/>
   <circle cx="58" cy="307" r="5" fill="#52d4bd"/>
-  <text x="76" y="313" fill="#c5cec2" font-family="Cascadia Code, monospace" font-size="13" letter-spacing="1">43 COMMITS  ·  3 DÉPÔTS PYTHON  ·  1 PORTFOLIO</text>
+  <text x="76" y="313" fill="#c5cec2" font-family="Cascadia Code, monospace" font-size="13" letter-spacing="1">40+ COMMITS  ·  3 DÉPÔTS PYTHON  ·  1 PORTFOLIO</text>
 </svg>

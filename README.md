@@ -27,7 +27,7 @@
   </tr>
 </table>
 
-> Les compteurs de la carte sont datés du **25 juillet 2026**. La télémétrie
+> Ces repères publics sont confirmés au **25 juillet 2026**. La télémétrie
 > située plus bas se met à jour automatiquement avec l’activité GitHub.
 
 ## Transmission
