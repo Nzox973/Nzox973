@@ -63,16 +63,37 @@ IDÉE  ──►  PROTOTYPE  ──►  DOCUMENTATION  ──►  TESTS  ──�
 
 <div align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Nzox973&bg_color=081312&color=52d4bd&line=f2a65a&point=edf1e8&area=true&hide_border=true&custom_title=Activite%20GitHub"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Nzox973&bg_color=03020f&color=00e5ff&line=f42cd6&point=f7fbff&area=true&area_color=6a24c8&hide_border=true&custom_title=Activite%20GitHub"
     width="100%"
     alt="Graphique de l’activité GitHub récente de Nzox973"
   >
   <br>
   <img
-    src="https://streak-stats.demolab.com?user=Nzox973&theme=transparent&hide_border=true&background=081312&ring=52D4BD&fire=F2A65A&currStreakLabel=52D4BD&sideLabels=EDF1E8&dates=91A6A0&currStreakNum=EDF1E8&sideNums=EDF1E8"
+    src="https://streak-stats.demolab.com?user=Nzox973&theme=transparent&hide_border=true&background=03020F&ring=00E5FF&fire=F42CD6&currStreakLabel=00E5FF&sideLabels=F7FBFF&dates=8D87B8&currStreakNum=F7FBFF&sideNums=F7FBFF"
     width="70%"
     alt="Série de contributions GitHub de Nzox973"
   >
+</div>
+
+### Sondes des dépôts
+
+<div align="center">
+  <a href="https://github.com/Nzox973/nzox-security-audit">
+    <img src="https://img.shields.io/github/last-commit/Nzox973/nzox-security-audit?style=for-the-badge&logo=github&label=AUDIT%20WINDOWS&labelColor=08051d&color=00e5ff" alt="Dernière mise à jour de Nzox Security Audit">
+  </a>
+  <a href="https://github.com/Nzox973/nzox-api">
+    <img src="https://img.shields.io/github/last-commit/Nzox973/nzox-api?style=for-the-badge&logo=fastapi&label=API%20REST&labelColor=08051d&color=8e35ff" alt="Dernière mise à jour de Nzox API">
+  </a>
+  <a href="https://github.com/Nzox973/nzox-discord-bot">
+    <img src="https://img.shields.io/github/last-commit/Nzox973/nzox-discord-bot?style=for-the-badge&logo=discord&label=BOT%20DISCORD&labelColor=08051d&color=f42cd6" alt="Dernière mise à jour du bot Discord NzoxYt">
+  </a>
+  <br>
+  <a href="https://github.com/Nzox973?tab=followers">
+    <img src="https://img.shields.io/github/followers/Nzox973?style=for-the-badge&logo=github&label=SUIVEURS&labelColor=08051d&color=008fe8" alt="Nombre de personnes suivant Nzox973">
+  </a>
+  <a href="https://github.com/Nzox973?tab=repositories">
+    <img src="https://img.shields.io/github/stars/Nzox973?affiliations=OWNER&style=for-the-badge&logo=github&label=ETOILES&labelColor=08051d&color=ff2bd6" alt="Nombre total d’étoiles reçues par les dépôts de Nzox973">
+  </a>
 </div>
 
 ## 🧭 Journal de bord

@@ -2,47 +2,64 @@
   <title id="title">Statistiques GitHub de Nzox973 au 25 juillet 2026</title>
   <desc id="desc">Plus de 50 contributions sur douze mois, 5 dépôts publics, plus de 5 pull requests et 3 projets principaux.</desc>
   <defs>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#00e5ff"/>
+      <stop offset=".48" stop-color="#6a24c8"/>
+      <stop offset="1" stop-color="#f42cd6"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#0b0924"/>
+      <stop offset="1" stop-color="#070519"/>
+    </linearGradient>
     <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
-      <path d="M28 0H0v28" fill="none" stroke="#52d4bd" stroke-opacity=".055"/>
+      <path d="M28 0H0v28" fill="none" stroke="#756dbe" stroke-opacity=".08"/>
     </pattern>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
   </defs>
 
-  <rect x="1" y="1" width="758" height="358" rx="14" fill="#081312" stroke="#24574f" stroke-width="2"/>
-  <rect x="1" y="1" width="758" height="358" rx="14" fill="url(#grid)"/>
-  <circle cx="34" cy="32" r="6" fill="#52d4bd"/>
-  <text x="54" y="38" fill="#a7dcd2" font-family="Cascadia Code, monospace" font-size="17" font-weight="700" letter-spacing="2">MISSION LOG</text>
-  <text x="724" y="38" fill="#7f9690" font-family="Cascadia Code, monospace" font-size="13" text-anchor="end">25.07.2026</text>
-  <path d="M28 61h704" stroke="#24574f"/>
+  <rect x="1" y="1" width="758" height="358" rx="18" fill="#03020f" stroke="url(#edge)" stroke-opacity=".7" stroke-width="2"/>
+  <rect x="1" y="1" width="758" height="358" rx="18" fill="url(#grid)"/>
+  <circle cx="34" cy="32" r="6" fill="#00e5ff" filter="url(#glow)"/>
+  <text x="54" y="38" fill="#94f4ff" font-family="Cascadia Code, Consolas, monospace" font-size="17" font-weight="700" letter-spacing="2">MISSION LOG</text>
+  <text x="724" y="38" fill="#8d87b8" font-family="Cascadia Code, Consolas, monospace" font-size="13" text-anchor="end">CHECKPOINT · 25.07.2026</text>
+  <path d="M28 61h704" stroke="url(#edge)" stroke-opacity=".42"/>
 
   <g transform="translate(34 88)">
-    <rect width="158" height="174" rx="8" fill="#10211f" stroke="#24574f"/>
-    <text x="18" y="78" fill="#edf1e8" font-family="Georgia, serif" font-size="64">50+</text>
-    <text x="18" y="113" fill="#52d4bd" font-family="Cascadia Code, monospace" font-size="13" font-weight="700">CONTRIBUTIONS</text>
-    <text x="18" y="137" fill="#91a6a0" font-family="Aptos, sans-serif" font-size="13">sur 12 mois</text>
+    <rect width="158" height="174" rx="12" fill="url(#panel)" stroke="#00e5ff" stroke-opacity=".42"/>
+    <path d="M0 0h62" stroke="#00e5ff" stroke-width="3"/>
+    <text x="18" y="78" fill="#f7fbff" font-family="Segoe UI, Arial, sans-serif" font-size="64" font-weight="700">50+</text>
+    <text x="18" y="113" fill="#00e5ff" font-family="Cascadia Code, Consolas, monospace" font-size="13" font-weight="700">CONTRIBUTIONS</text>
+    <text x="18" y="137" fill="#9b96bf" font-family="Segoe UI, Arial, sans-serif" font-size="13">sur 12 mois</text>
   </g>
 
   <g transform="translate(206 88)">
-    <rect width="158" height="174" rx="8" fill="#10211f" stroke="#24574f"/>
-    <text x="18" y="78" fill="#edf1e8" font-family="Georgia, serif" font-size="64">5</text>
-    <text x="18" y="113" fill="#52d4bd" font-family="Cascadia Code, monospace" font-size="13" font-weight="700">DÉPÔTS PUBLICS</text>
-    <text x="18" y="137" fill="#91a6a0" font-family="Aptos, sans-serif" font-size="13">code &amp; portfolio</text>
+    <rect width="158" height="174" rx="12" fill="url(#panel)" stroke="#008fe8" stroke-opacity=".42"/>
+    <path d="M0 0h62" stroke="#008fe8" stroke-width="3"/>
+    <text x="18" y="78" fill="#f7fbff" font-family="Segoe UI, Arial, sans-serif" font-size="64" font-weight="700">5</text>
+    <text x="18" y="113" fill="#7fcfff" font-family="Cascadia Code, Consolas, monospace" font-size="13" font-weight="700">DÉPÔTS PUBLICS</text>
+    <text x="18" y="137" fill="#9b96bf" font-family="Segoe UI, Arial, sans-serif" font-size="13">code &amp; portfolio</text>
   </g>
 
   <g transform="translate(378 88)">
-    <rect width="158" height="174" rx="8" fill="#10211f" stroke="#24574f"/>
-    <text x="18" y="78" fill="#edf1e8" font-family="Georgia, serif" font-size="64">5+</text>
-    <text x="18" y="113" fill="#f2a65a" font-family="Cascadia Code, monospace" font-size="13" font-weight="700">PULL REQUESTS</text>
-    <text x="18" y="137" fill="#91a6a0" font-family="Aptos, sans-serif" font-size="13">publiées en 2026</text>
+    <rect width="158" height="174" rx="12" fill="url(#panel)" stroke="#8e35ff" stroke-opacity=".5"/>
+    <path d="M0 0h62" stroke="#8e35ff" stroke-width="3"/>
+    <text x="18" y="78" fill="#f7fbff" font-family="Segoe UI, Arial, sans-serif" font-size="64" font-weight="700">5+</text>
+    <text x="18" y="113" fill="#b78cff" font-family="Cascadia Code, Consolas, monospace" font-size="13" font-weight="700">PULL REQUESTS</text>
+    <text x="18" y="137" fill="#9b96bf" font-family="Segoe UI, Arial, sans-serif" font-size="13">publiées en 2026</text>
   </g>
 
   <g transform="translate(550 88)">
-    <rect width="158" height="174" rx="8" fill="#10211f" stroke="#24574f"/>
-    <text x="18" y="78" fill="#edf1e8" font-family="Georgia, serif" font-size="64">3</text>
-    <text x="18" y="113" fill="#f2a65a" font-family="Cascadia Code, monospace" font-size="13" font-weight="700">PROJETS PHARES</text>
-    <text x="18" y="137" fill="#91a6a0" font-family="Aptos, sans-serif" font-size="13">Python · API · cyber</text>
+    <rect width="158" height="174" rx="12" fill="url(#panel)" stroke="#f42cd6" stroke-opacity=".5"/>
+    <path d="M0 0h62" stroke="#f42cd6" stroke-width="3"/>
+    <text x="18" y="78" fill="#f7fbff" font-family="Segoe UI, Arial, sans-serif" font-size="64" font-weight="700">3</text>
+    <text x="18" y="113" fill="#ff8bea" font-family="Cascadia Code, Consolas, monospace" font-size="13" font-weight="700">PROJETS PHARES</text>
+    <text x="18" y="137" fill="#9b96bf" font-family="Segoe UI, Arial, sans-serif" font-size="13">Python · API · cyber</text>
   </g>
 
-  <rect x="34" y="286" width="674" height="42" rx="21" fill="#0d1b19" stroke="#24574f"/>
-  <circle cx="58" cy="307" r="5" fill="#52d4bd"/>
-  <text x="76" y="313" fill="#c5cec2" font-family="Cascadia Code, monospace" font-size="13" letter-spacing="1">40+ COMMITS  ·  3 DÉPÔTS PYTHON  ·  1 PORTFOLIO</text>
+  <rect x="34" y="286" width="674" height="42" rx="21" fill="#09071d" stroke="url(#edge)" stroke-opacity=".5"/>
+  <circle cx="58" cy="307" r="5" fill="#00e5ff" filter="url(#glow)"/>
+  <text x="76" y="313" fill="#dfe4ff" font-family="Cascadia Code, Consolas, monospace" font-size="13" letter-spacing="1">40+ COMMITS  ·  3 DÉPÔTS PYTHON  ·  1 PORTFOLIO</text>
 </svg>

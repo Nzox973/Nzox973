@@ -1,53 +1,72 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 360" role="img" aria-labelledby="title desc">
   <title id="title">Constellation de compétences</title>
   <desc id="desc">Python au centre, relié à FastAPI, cybersécurité défensive, Git, création de contenu et management numérique.</desc>
-  <rect x="1" y="1" width="758" height="358" rx="14" fill="#081312" stroke="#24574f" stroke-width="2"/>
+  <defs>
+    <radialGradient id="space" cx=".5" cy=".52" r=".72">
+      <stop stop-color="#12103b"/>
+      <stop offset=".55" stop-color="#08061f"/>
+      <stop offset="1" stop-color="#03020f"/>
+    </radialGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#00e5ff"/>
+      <stop offset=".55" stop-color="#6a24c8"/>
+      <stop offset="1" stop-color="#f42cd6"/>
+    </linearGradient>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
 
-  <text x="28" y="38" fill="#a7dcd2" font-family="Cascadia Code, monospace" font-size="17" font-weight="700" letter-spacing="2">SKILL CONSTELLATION</text>
-  <text x="730" y="38" fill="#7f9690" font-family="Cascadia Code, monospace" font-size="13" text-anchor="end">NZOX / 2026</text>
-  <path d="M28 61h704" stroke="#24574f"/>
+  <rect x="1" y="1" width="758" height="358" rx="18" fill="url(#space)" stroke="url(#edge)" stroke-opacity=".7" stroke-width="2"/>
+  <text x="28" y="38" fill="#94f4ff" font-family="Cascadia Code, Consolas, monospace" font-size="17" font-weight="700" letter-spacing="2">SKILL CONSTELLATION</text>
+  <text x="730" y="38" fill="#8d87b8" font-family="Cascadia Code, Consolas, monospace" font-size="13" text-anchor="end">NZOX / 2026</text>
+  <path d="M28 61h704" stroke="url(#edge)" stroke-opacity=".42"/>
 
   <g transform="translate(382 205)">
-    <ellipse rx="260" ry="90" fill="none" stroke="#52d4bd" stroke-opacity=".23"/>
-    <ellipse rx="180" ry="126" fill="none" stroke="#f2a65a" stroke-opacity=".23" transform="rotate(-18)"/>
-    <ellipse rx="112" ry="142" fill="none" stroke="#52d4bd" stroke-opacity=".32" transform="rotate(33)"/>
-    <circle r="62" fill="#10211f" stroke="#52d4bd" stroke-width="2"/>
-    <circle r="52" fill="none" stroke="#52d4bd" stroke-opacity=".28"/>
-    <text y="-5" fill="#edf1e8" font-family="Georgia, serif" font-size="30" text-anchor="middle">Python</text>
-    <text y="24" fill="#52d4bd" font-family="Cascadia Code, monospace" font-size="11" text-anchor="middle" letter-spacing="2">CORE</text>
+    <ellipse rx="260" ry="90" fill="none" stroke="#00e5ff" stroke-opacity=".28"/>
+    <ellipse rx="184" ry="127" fill="none" stroke="#f42cd6" stroke-opacity=".25" transform="rotate(-18)"/>
+    <ellipse rx="114" ry="143" fill="none" stroke="#8e35ff" stroke-opacity=".38" transform="rotate(33)"/>
+    <circle r="66" fill="#090720" stroke="url(#edge)" stroke-width="2"/>
+    <circle r="53" fill="none" stroke="#00e5ff" stroke-opacity=".32"/>
+    <circle r="5" fill="#00e5ff" filter="url(#glow)">
+      <animate attributeName="opacity" values=".5;1;.5" dur="2.7s" repeatCount="indefinite"/>
+    </circle>
+    <text y="-8" fill="#f7fbff" font-family="Segoe UI, Arial, sans-serif" font-size="30" font-weight="700" text-anchor="middle">Python</text>
+    <text y="25" fill="#00e5ff" font-family="Cascadia Code, Consolas, monospace" font-size="11" text-anchor="middle" letter-spacing="2">CORE SYSTEM</text>
   </g>
 
-  <g font-family="Cascadia Code, monospace" font-size="12" font-weight="700" text-anchor="middle">
+  <g font-family="Cascadia Code, Consolas, monospace" font-size="12" font-weight="700" text-anchor="middle">
     <g transform="translate(175 128)">
-      <circle r="30" fill="#10211f" stroke="#52d4bd"/>
-      <text y="4" fill="#edf1e8">FASTAPI</text>
+      <circle r="31" fill="#090720" stroke="#00e5ff"/>
+      <text y="4" fill="#f7fbff">FASTAPI</text>
     </g>
     <g transform="translate(583 127)">
-      <circle r="34" fill="#10211f" stroke="#f2a65a"/>
-      <text y="-2" fill="#edf1e8">CYBER</text>
-      <text y="14" fill="#f2a65a" font-size="9">DÉFENSIVE</text>
+      <circle r="35" fill="#090720" stroke="#f42cd6"/>
+      <text y="-2" fill="#f7fbff">CYBER</text>
+      <text y="14" fill="#ff8bea" font-size="9">DÉFENSIVE</text>
     </g>
     <g transform="translate(146 264)">
-      <circle r="27" fill="#10211f" stroke="#52d4bd"/>
-      <text y="4" fill="#edf1e8">GIT</text>
+      <circle r="28" fill="#090720" stroke="#008fe8"/>
+      <text y="4" fill="#f7fbff">GIT</text>
     </g>
     <g transform="translate(614 265)">
-      <circle r="31" fill="#10211f" stroke="#52d4bd"/>
-      <text y="4" fill="#edf1e8">NZOXYT</text>
+      <circle r="32" fill="#090720" stroke="#00e5ff"/>
+      <text y="4" fill="#f7fbff">NZOXYT</text>
     </g>
     <g transform="translate(382 82)">
-      <circle r="31" fill="#10211f" stroke="#f2a65a"/>
-      <text y="-2" fill="#edf1e8">API</text>
-      <text y="14" fill="#f2a65a" font-size="9">REST</text>
+      <circle r="31" fill="#090720" stroke="#8e35ff"/>
+      <text y="-2" fill="#f7fbff">API</text>
+      <text y="14" fill="#b78cff" font-size="9">REST</text>
     </g>
     <g transform="translate(382 316)">
-      <circle r="34" fill="#10211f" stroke="#f2a65a"/>
-      <text y="-2" fill="#edf1e8" font-size="8.5">MANAGEMENT</text>
-      <text y="13" fill="#f2a65a" font-size="8.5">NUMÉRIQUE</text>
+      <circle r="34" fill="#090720" stroke="#f42cd6"/>
+      <text y="-2" fill="#f7fbff" font-size="8.5">MANAGEMENT</text>
+      <text y="13" fill="#ff8bea" font-size="8.5">NUMÉRIQUE</text>
     </g>
   </g>
 
-  <g fill="#edf1e8">
+  <g fill="#f7fbff">
     <circle cx="93" cy="101" r="2"/>
     <circle cx="686" cy="91" r="2"/>
     <circle cx="673" cy="191" r="1.5"/>
