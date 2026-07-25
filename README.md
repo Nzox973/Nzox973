@@ -12,15 +12,7 @@
 
 <br>
 
-## Transmission
-
-Je suis **Enzo ATTICOT**, bachelier 2026 en Mathématiques et NSI, basé en
-Guyane française. Je construis des projets en **Python** et **FastAPI**, avec un
-intérêt particulier pour les API, les réseaux et la cybersécurité défensive.
-
-À partir de septembre 2026, je rejoins le **Bachelor Management & Numérique**
-du Pôle Supérieur de Guyane. Ici, chaque dépôt est une trace concrète de mon
-apprentissage : code, documentation, essais, corrections et progression.
+<img src="./assets/signal-strip.svg" width="100%" alt="Signal de mission spatial animé">
 
 ## 🛰️ Mission control
 
@@ -38,7 +30,20 @@ apprentissage : code, documentation, essais, corrections et progression.
 > Les compteurs de la carte sont datés du **25 juillet 2026**. La télémétrie
 > située plus bas se met à jour automatiquement avec l’activité GitHub.
 
+## Transmission
+
+Je suis **Enzo ATTICOT**, bachelier 2026 en Mathématiques et NSI, basé en
+Guyane française. Je construis des projets en **Python** et **FastAPI**, avec un
+intérêt particulier pour les API, les réseaux et la cybersécurité défensive.
+À partir de septembre 2026, je rejoins le **Bachelor Management & Numérique**
+du Pôle Supérieur de Guyane.
+
+Chaque dépôt documente une progression réelle : code, essais, corrections et
+amélioration continue.
+
 ## 🚀 Projets en orbite
+
+<img src="./assets/project-deck.svg" width="100%" alt="Trois projets phares : audit Windows, API REST et bot Discord">
 
 | Mission | Système construit | Technologies | Accès |
 | --- | --- | --- | :---: |

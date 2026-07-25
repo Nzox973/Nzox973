@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 520" role="img" aria-labelledby="title desc">
+  <title id="title">Trois projets phares en orbite</title>
+  <desc id="desc">Nzox Security Audit, Nzox API et NzoxYt Discord Bot.</desc>
+  <defs>
+    <linearGradient id="deckBg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#081312"/>
+      <stop offset="1" stop-color="#0d1d1a"/>
+    </linearGradient>
+    <filter id="deckGlow">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect x="1" y="1" width="1598" height="518" rx="24" fill="url(#deckBg)" stroke="#24574f" stroke-width="2"/>
+  <g fill="#edf1e8" opacity=".55">
+    <circle cx="112" cy="76" r="2"/><circle cx="355" cy="40" r="1.5"/><circle cx="715" cy="84" r="2"/>
+    <circle cx="1070" cy="47" r="1.5"/><circle cx="1452" cy="82" r="2"/>
+  </g>
+  <text x="64" y="70" fill="#a7dcd2" font-family="Cascadia Code, monospace" font-size="19" font-weight="700" letter-spacing="3">PROJECT ORBIT // ACTIVE MISSIONS</text>
+  <text x="1536" y="70" fill="#7f9690" font-family="Cascadia Code, monospace" font-size="15" text-anchor="end">03 SYSTEMS ONLINE</text>
+  <path d="M64 96h1472" stroke="#24574f"/>
+
+  <g transform="translate(64 132)">
+    <rect width="456" height="292" rx="18" fill="#10211f" stroke="#2b6c61" stroke-width="2"/>
+    <circle cx="388" cy="55" r="33" fill="none" stroke="#52d4bd" stroke-opacity=".45"/>
+    <circle cx="388" cy="55" r="7" fill="#52d4bd" filter="url(#deckGlow)">
+      <animate attributeName="opacity" values=".45;1;.45" dur="2.8s" repeatCount="indefinite"/>
+    </circle>
+    <text x="36" y="52" fill="#52d4bd" font-family="Cascadia Code, monospace" font-size="15" font-weight="700">MISSION 01</text>
+    <text x="36" y="108" fill="#edf1e8" font-family="Georgia, serif" font-size="31">Nzox Security Audit</text>
+    <text x="36" y="148" fill="#a7dcd2" font-family="Cascadia Code, monospace" font-size="13">WINDOWS / DEFENSIVE SECURITY</text>
+    <path d="M36 176h384" stroke="#24574f"/>
+    <text x="36" y="211" fill="#c5cec2" font-family="Cascadia Code, monospace" font-size="13">Processus · ports · Defender</text>
+    <text x="36" y="240" fill="#c5cec2" font-family="Cascadia Code, monospace" font-size="13">Rapport HTML généré localement</text>
+    <text x="36" y="270" fill="#f2a65a" font-family="Cascadia Code, monospace" font-size="12" font-weight="700">PYTHON / PSUTIL</text>
+  </g>
+
+  <g transform="translate(572 132)">
+    <rect width="456" height="292" rx="18" fill="#10211f" stroke="#76512e" stroke-width="2"/>
+    <path d="M358 32l58 23-58 23-58-23z" fill="none" stroke="#f2a65a" stroke-opacity=".65"/>
+    <circle cx="358" cy="55" r="6" fill="#f2a65a" filter="url(#deckGlow)">
+      <animate attributeName="r" values="4;7;4" dur="3.3s" repeatCount="indefinite"/>
+    </circle>
+    <text x="36" y="52" fill="#f2a65a" font-family="Cascadia Code, monospace" font-size="15" font-weight="700">MISSION 02</text>
+    <text x="36" y="108" fill="#edf1e8" font-family="Georgia, serif" font-size="31">Nzox API</text>
+    <text x="36" y="148" fill="#a7dcd2" font-family="Cascadia Code, monospace" font-size="13">BACKEND / REST ARCHITECTURE</text>
+    <path d="M36 176h384" stroke="#24574f"/>
+    <text x="36" y="211" fill="#c5cec2" font-family="Cascadia Code, monospace" font-size="13">Authentification · validation · CRUD</text>
+    <text x="36" y="240" fill="#c5cec2" font-family="Cascadia Code, monospace" font-size="13">Documentation interactive</text>
+    <text x="36" y="270" fill="#f2a65a" font-family="Cascadia Code, monospace" font-size="12" font-weight="700">FASTAPI / JWT / SQLALCHEMY</text>
+  </g>
+
+  <g transform="translate(1080 132)">
+    <rect width="456" height="292" rx="18" fill="#10211f" stroke="#2b6c61" stroke-width="2"/>
+    <g transform="translate(386 56)" fill="none" stroke="#52d4bd" stroke-opacity=".65">
+      <circle r="29"/><ellipse rx="52" ry="15" transform="rotate(-22)"/>
+      <circle cx="44" cy="-21" r="5" fill="#52d4bd" filter="url(#deckGlow)">
+        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="6s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+    <text x="36" y="52" fill="#52d4bd" font-family="Cascadia Code, monospace" font-size="15" font-weight="700">MISSION 03</text>
+    <text x="36" y="108" fill="#edf1e8" font-family="Georgia, serif" font-size="29">NzoxYt Discord Bot</text>
+    <text x="36" y="148" fill="#a7dcd2" font-family="Cascadia Code, monospace" font-size="13">COMMUNITY / AUTOMATION</text>
+    <path d="M36 176h384" stroke="#24574f"/>
+    <text x="36" y="211" fill="#c5cec2" font-family="Cascadia Code, monospace" font-size="13">Commandes · annonces · modules</text>
+    <text x="36" y="240" fill="#c5cec2" font-family="Cascadia Code, monospace" font-size="13">Intégrations d’API</text>
+    <text x="36" y="270" fill="#f2a65a" font-family="Cascadia Code, monospace" font-size="12" font-weight="700">PYTHON / DISCORD.PY</text>
+  </g>
+
+  <text x="800" y="478" fill="#7f9690" font-family="Cascadia Code, monospace" font-size="14" text-anchor="middle" letter-spacing="4">OPEN SOURCE MISSIONS  ·  REPOSITORIES BELOW</text>
+</svg>
