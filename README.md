@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/hero-space.png" width="100%" alt="Enzo ATTICOT — Python, FastAPI et cybersécurité défensive, dans un univers spatial">
+  <img src="./assets/hero-space.png" width="100%" alt="Enzo ATTICOT — Python, FastAPI, qualité logicielle et data/BI, dans un univers spatial">
 </div>
 
 <div align="center">
@@ -27,16 +27,17 @@
   </tr>
 </table>
 
-> Ces repères publics sont confirmés au **25 juillet 2026**. La télémétrie
+> Ces repères publics sont confirmés au **13 août 2026**. La télémétrie
 > située plus bas se met à jour automatiquement avec l’activité GitHub.
 
 ## Transmission
 
-Je suis **Enzo ATTICOT**, bachelier 2026 en Mathématiques et NSI, basé en
-Guyane française. Je construis des projets en **Python** et **FastAPI**, avec un
-intérêt particulier pour les API, les réseaux et la cybersécurité défensive.
-À partir de septembre 2026, je rejoins le **Bachelor Management & Numérique**
-du Pôle Supérieur de Guyane.
+Je suis **Enzo ATTICOT**, étudiant admis en **Bachelor Management & Numérique**
+au Pôle Supérieur de Guyane pour la rentrée de septembre 2026, après un
+baccalauréat Mathématiques et NSI. Je construis des projets en **Python** et
+**FastAPI**, avec un intérêt particulier pour les API, la qualité logicielle
+et la transformation de besoins métier en outils utiles. Je consolide aussi
+SQL avant de construire des cas data/BI à partir de données documentées.
 
 Chaque dépôt documente une progression réelle : code, essais, corrections et
 amélioration continue.
@@ -100,10 +101,10 @@ IDÉE  ──►  PROTOTYPE  ──►  DOCUMENTATION  ──►  TESTS  ──�
 
 | Maintenant | Prochaine trajectoire |
 | --- | --- |
-| Consolider Python, FastAPI et les bases réseau | Approfondir les tests et la qualité logicielle |
+| Consolider Python, FastAPI, SQL et Git | Approfondir les tests et la qualité logicielle |
 | Documenter clairement les choix et les limites | Relier management, numérique et réalisation technique |
 | Développer dans un cadre défensif et légal | Contribuer à des projets utiles, en Guyane ou à distance |
-| Préparer la rentrée 2026 | Transformer chaque apprentissage en preuve concrète |
+| Préparer la rentrée de septembre 2026, admission acquise | Transformer chaque apprentissage en preuve concrète |
 
 ## 🔭 Points d’observation
 
