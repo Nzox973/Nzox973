@@ -110,6 +110,7 @@ IDÉE  ──►  PROTOTYPE  ──►  DOCUMENTATION  ──►  TESTS  ──�
 
 - [Portfolio](https://nzox973.github.io/) — projets, parcours et point d’entrée principal
 - [LinkedIn](https://www.linkedin.com/in/enzo-atticot/) — formation et expériences
+- [Contact professionnel](mailto:enzo.atticot.pro@gmail.com) — `enzo.atticot.pro@gmail.com`
 - [Microsoft Learn](https://learn.microsoft.com/en-us/users/enzoatticot-7921/) — apprentissages suivis
 - [YouTube — NzoxYt](https://www.youtube.com/@NzoxYt) — création de contenu
 - [Twitch — NzoxYt](https://www.twitch.tv/nzoxyt) — diffusion en direct
