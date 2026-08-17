@@ -32,8 +32,8 @@
 
 ## Transmission
 
-Je suis **Enzo ATTICOT**, étudiant admis en **Bachelor Management & Numérique**
-au Pôle Supérieur de Guyane pour la rentrée de septembre 2026, après un
+Je suis **Enzo ATTICOT**, étudiant en **Bachelor Management & Numérique**
+au Pôle Supérieur de Guyane, avec une rentrée prévue en septembre 2026, après un
 baccalauréat Mathématiques et NSI. Je construis des projets en **Python** et
 **FastAPI**, avec un intérêt particulier pour les API, la qualité logicielle
 et la transformation de besoins métier en outils utiles. Je consolide aussi
