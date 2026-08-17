@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/hero-space.png" width="100%" alt="Enzo ATTICOT — Python, FastAPI et cybersécurité défensive, dans un univers spatial">
+  <img src="https://raw.githubusercontent.com/Nzox973/Nzox973/main/assets/hero-space.png" width="100%" alt="Enzo ATTICOT — Python, FastAPI, qualité logicielle et data/BI, dans un univers spatial">
 </div>
 
 <div align="center">
@@ -12,38 +12,39 @@
 
 <br>
 
-<img src="./assets/signal-strip.svg" width="100%" alt="Signal de mission spatial animé">
+<img src="https://raw.githubusercontent.com/Nzox973/Nzox973/main/assets/signal-strip.svg" width="100%" alt="Signal de mission spatial animé">
 
 ## 🛰️ Mission control
 
 <table>
   <tr>
     <td width="50%">
-      <img src="./assets/stats-card.svg" width="100%" alt="Statistiques GitHub au 25 juillet 2026">
+      <img src="https://raw.githubusercontent.com/Nzox973/Nzox973/main/assets/stats-card.svg" width="100%" alt="Checkpoint GitHub du 25 juillet 2026">
     </td>
     <td width="50%">
-      <img src="./assets/orbit-map.svg" width="100%" alt="Constellation des compétences techniques d’Enzo ATTICOT">
+      <img src="https://raw.githubusercontent.com/Nzox973/Nzox973/main/assets/orbit-map.svg" width="100%" alt="Constellation des compétences techniques d’Enzo ATTICOT">
     </td>
   </tr>
 </table>
 
-> Ces repères publics sont confirmés au **25 juillet 2026**. La télémétrie
-> située plus bas se met à jour automatiquement avec l’activité GitHub.
+> La carte conserve un **checkpoint du 25 juillet 2026**. La télémétrie située
+> plus bas se met à jour automatiquement avec l’activité GitHub.
 
 ## Transmission
 
-Je suis **Enzo ATTICOT**, bachelier 2026 en Mathématiques et NSI, basé en
-Guyane française. Je construis des projets en **Python** et **FastAPI**, avec un
-intérêt particulier pour les API, les réseaux et la cybersécurité défensive.
-À partir de septembre 2026, je rejoins le **Bachelor Management & Numérique**
-du Pôle Supérieur de Guyane.
+Je suis **Enzo ATTICOT**, étudiant en **Bachelor Management & Numérique**
+au Pôle Supérieur de Guyane, avec une rentrée prévue en septembre 2026, après un
+baccalauréat Mathématiques et NSI. Je construis des projets en **Python** et
+**FastAPI**, avec un intérêt particulier pour les API, la qualité logicielle
+et la transformation de besoins métier en outils utiles. Je consolide aussi
+SQL avant de construire des cas data/BI à partir de données documentées.
 
 Chaque dépôt documente une progression réelle : code, essais, corrections et
 amélioration continue.
 
 ## 🚀 Projets en orbite
 
-<img src="./assets/project-deck.svg" width="100%" alt="Trois projets phares : audit Windows, API REST et bot Discord">
+<img src="https://raw.githubusercontent.com/Nzox973/Nzox973/main/assets/project-deck.svg" width="100%" alt="Trois projets phares : audit Windows, API REST et bot Discord">
 
 | Mission | Système construit | Technologies | Accès |
 | --- | --- | --- | :---: |
@@ -100,15 +101,16 @@ IDÉE  ──►  PROTOTYPE  ──►  DOCUMENTATION  ──►  TESTS  ──�
 
 | Maintenant | Prochaine trajectoire |
 | --- | --- |
-| Consolider Python, FastAPI et les bases réseau | Approfondir les tests et la qualité logicielle |
+| Consolider Python, FastAPI, SQL et Git | Approfondir les tests et la qualité logicielle |
 | Documenter clairement les choix et les limites | Relier management, numérique et réalisation technique |
 | Développer dans un cadre défensif et légal | Contribuer à des projets utiles, en Guyane ou à distance |
-| Préparer la rentrée 2026 | Transformer chaque apprentissage en preuve concrète |
+| Préparer la rentrée de septembre 2026, admission acquise | Transformer chaque apprentissage en preuve concrète |
 
 ## 🔭 Points d’observation
 
 - [Portfolio](https://nzox973.github.io/) — projets, parcours et point d’entrée principal
 - [LinkedIn](https://www.linkedin.com/in/enzo-atticot/) — formation et expériences
+- [Contact professionnel](mailto:enzo.atticot.pro@gmail.com) — `enzo.atticot.pro@gmail.com`
 - [Microsoft Learn](https://learn.microsoft.com/en-us/users/enzoatticot-7921/) — apprentissages suivis
 - [YouTube — NzoxYt](https://www.youtube.com/@NzoxYt) — création de contenu
 - [Twitch — NzoxYt](https://www.twitch.tv/nzoxyt) — diffusion en direct
@@ -124,4 +126,4 @@ IDÉE  ──►  PROTOTYPE  ──►  DOCUMENTATION  ──►  TESTS  ──�
 
 <br>
 
-<img src="./assets/wave-footer.svg" width="100%" alt="Vagues spatiales animées">
+<img src="https://raw.githubusercontent.com/Nzox973/Nzox973/main/assets/wave-footer.svg" width="100%" alt="Vagues spatiales animées">
