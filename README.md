@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/hero-space.png" width="100%" alt="Enzo ATTICOT — Python, FastAPI, qualité logicielle et data/BI, dans un univers spatial">
+  <img src="https://raw.githubusercontent.com/Nzox973/Nzox973/main/assets/hero-space.png" width="100%" alt="Enzo ATTICOT — Python, FastAPI, qualité logicielle et data/BI, dans un univers spatial">
 </div>
 
 <div align="center">
@@ -12,23 +12,23 @@
 
 <br>
 
-<img src="./assets/signal-strip.svg" width="100%" alt="Signal de mission spatial animé">
+<img src="https://raw.githubusercontent.com/Nzox973/Nzox973/main/assets/signal-strip.svg" width="100%" alt="Signal de mission spatial animé">
 
 ## 🛰️ Mission control
 
 <table>
   <tr>
     <td width="50%">
-      <img src="./assets/stats-card.svg" width="100%" alt="Statistiques GitHub au 25 juillet 2026">
+      <img src="https://raw.githubusercontent.com/Nzox973/Nzox973/main/assets/stats-card.svg" width="100%" alt="Checkpoint GitHub du 25 juillet 2026">
     </td>
     <td width="50%">
-      <img src="./assets/orbit-map.svg" width="100%" alt="Constellation des compétences techniques d’Enzo ATTICOT">
+      <img src="https://raw.githubusercontent.com/Nzox973/Nzox973/main/assets/orbit-map.svg" width="100%" alt="Constellation des compétences techniques d’Enzo ATTICOT">
     </td>
   </tr>
 </table>
 
-> Ces repères publics sont confirmés au **13 août 2026**. La télémétrie
-> située plus bas se met à jour automatiquement avec l’activité GitHub.
+> La carte conserve un **checkpoint du 25 juillet 2026**. La télémétrie située
+> plus bas se met à jour automatiquement avec l’activité GitHub.
 
 ## Transmission
 
@@ -44,7 +44,7 @@ amélioration continue.
 
 ## 🚀 Projets en orbite
 
-<img src="./assets/project-deck.svg" width="100%" alt="Trois projets phares : audit Windows, API REST et bot Discord">
+<img src="https://raw.githubusercontent.com/Nzox973/Nzox973/main/assets/project-deck.svg" width="100%" alt="Trois projets phares : audit Windows, API REST et bot Discord">
 
 | Mission | Système construit | Technologies | Accès |
 | --- | --- | --- | :---: |
@@ -125,4 +125,4 @@ IDÉE  ──►  PROTOTYPE  ──►  DOCUMENTATION  ──►  TESTS  ──�
 
 <br>
 
-<img src="./assets/wave-footer.svg" width="100%" alt="Vagues spatiales animées">
+<img src="https://raw.githubusercontent.com/Nzox973/Nzox973/main/assets/wave-footer.svg" width="100%" alt="Vagues spatiales animées">
