@@ -112,8 +112,6 @@ IDÉE  ──►  PROTOTYPE  ──►  DOCUMENTATION  ──►  TESTS  ──�
 - [LinkedIn](https://www.linkedin.com/in/enzo-atticot/) — formation et expériences
 - [Contact professionnel](mailto:enzo.atticot.pro@gmail.com) — `enzo.atticot.pro@gmail.com`
 - [Microsoft Learn](https://learn.microsoft.com/en-us/users/enzoatticot-7921/) — apprentissages suivis
-- [YouTube — NzoxYt](https://www.youtube.com/@NzoxYt) — création de contenu
-- [Twitch — NzoxYt](https://www.twitch.tv/nzoxyt) — diffusion en direct
 
 <details>
   <summary><strong>Cadre de publication et confidentialité</strong></summary>
