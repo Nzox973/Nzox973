@@ -32,15 +32,19 @@
 
 ## Transmission
 
-Je suis **Enzo ATTICOT**, étudiant en **Bachelor Management & Numérique**
-au Pôle Supérieur de Guyane, avec une rentrée prévue en septembre 2026, après un
-baccalauréat Mathématiques et NSI. Je construis des projets en **Python** et
-**FastAPI**, avec un intérêt particulier pour les API, la qualité logicielle
-et la transformation de besoins métier en outils utiles. Je consolide aussi
-SQL avant de construire des cas data/BI à partir de données documentées.
+Je suis **Enzo ATTICOT**, étudiant en **1re année de Bachelor Management & Numérique**
+au Pôle Supérieur de Guyane depuis septembre 2026, après un baccalauréat
+Mathématiques et NSI. Je construis des projets en **Python**, **FastAPI** et
+**SQL**, avec un intérêt particulier pour les API, l’IA appliquée, la qualité
+logicielle et la transformation de besoins métier en outils utiles.
 
-Chaque dépôt documente une progression réelle : code, essais, corrections et
-amélioration continue.
+En parallèle du Bachelor, je développe un environnement d’**IA locale** autour
+d’Ollama, Open WebUI et PowerShell afin d’expérimenter des assistants privés,
+des workflows automatisés et des usages complémentaires à ChatGPT, Codex et
+Claude Code.
+
+Chaque dépôt documente une progression réelle : code, essais, corrections,
+documentation et amélioration continue.
 
 ## 🚀 Projets en orbite
 
@@ -51,6 +55,7 @@ amélioration continue.
 | **Nzox Security Audit** | Audit défensif d’un poste Windows et génération locale d’un rapport HTML lisible | Python · `psutil` · Windows | [Ouvrir le dépôt](https://github.com/Nzox973/nzox-security-audit) |
 | **Nzox API** | API REST structurée avec authentification, validation et opérations CRUD | FastAPI · SQLAlchemy · JWT · Pydantic | [Ouvrir le dépôt](https://github.com/Nzox973/nzox-api) |
 | **NzoxYt Discord Bot** | Bot communautaire modulaire avec automatisations et intégrations d’API | Python · `discord.py` · API | [Ouvrir le dépôt](https://github.com/Nzox973/nzox-discord-bot) |
+| **IA Locale PRO** | Assistant local privé, portable et contrôlable, avec interface web et scripts de lancement sécurisés | Ollama · Open WebUI · PowerShell · Python | Projet privé en développement |
 
 ### Architecture de travail
 
@@ -104,7 +109,7 @@ IDÉE  ──►  PROTOTYPE  ──►  DOCUMENTATION  ──►  TESTS  ──�
 | Consolider Python, FastAPI, SQL et Git | Approfondir les tests et la qualité logicielle |
 | Documenter clairement les choix et les limites | Relier management, numérique et réalisation technique |
 | Développer dans un cadre défensif et légal | Contribuer à des projets utiles, en Guyane ou à distance |
-| Préparer la rentrée de septembre 2026, admission acquise | Transformer chaque apprentissage en preuve concrète |
+| Relier les modules du Bachelor à des réalisations concrètes | Transformer chaque apprentissage en preuve publiable |
 
 ## 🔭 Points d’observation
 
